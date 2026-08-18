@@ -8,7 +8,7 @@ This project is part of a master thesis production. The experiment build consist
 In this repository you will find:
 - The raw datasets, extracted from FineWeb-2 and Glotcc-v1;
 - The methodological pipeline, composed of fours subfolers corresponding at each steps:
-    1. Data exploration and reshaping
-    2. The addition of the annotations from the forms
-    3. The tokenisation/sentensization/POS-taggins and diverse explorations
-    4. The Regex Search Index (instructions to reproduce the experiment is to be found in the _RIS_application_main.py_)
+    1. Data exploration and reshaping to extract text data
+    2. The addition of the WALS annotations from the forms
+    3. The tokenisation/sentensization/POS-taggins, the comparison between ht-adolphe.udpipe2.17 and fr-gsd.udpipe2.17 models, as well as diverse explorations
+    4. The Regex Search Index (instructions to reproduce the experiment is to be found in _RIS_application_main.py_)
