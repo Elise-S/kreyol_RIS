@@ -1,0 +1,756 @@
+#REMOVED SENTENCES FOR gdl LANGUAGE WITH ht-adolphe-2.17-251125 MODEL
+
+# sent_id = 38
+# text = ..
+1	..	..	PUNCT	_	_	_	_	_	TokenRange=3930:3932# sent_id = 106
+# text = .
+1	.	.	PUNCT	_	_	_	_	_	TokenRange=10926:10927# sent_id = 125
+# text = Poukisa?
+1	Poukisa	poukisa	ADV	_	_	_	_	_	SpaceAfter=No|TokenRange=12267:12274
+2	?	?	PUNCT	_	_	_	_	_	TokenRange=12274:12275# sent_id = 184
+# text = »
+1	»	»	PUNCT	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=16291:16292# sent_id = 260
+# text = Yeah!
+1	Yeah	yeah	INTJ	_	_	_	_	_	SpaceAfter=No|TokenRange=20683:20687
+2	!	!	PUNCT	_	_	_	_	_	TokenRange=20687:20688# sent_id = 264
+# text = Yeah!
+1	Yeah	yeah	INTJ	_	_	_	_	_	SpaceAfter=No|TokenRange=21149:21153
+2	!	!	PUNCT	_	_	_	_	_	TokenRange=21153:21154# sent_id = 314
+# text = Yeah!
+1	Yeah	yeah	INTJ	_	_	_	_	_	SpaceAfter=No|TokenRange=26112:26116
+2	!	!	PUNCT	_	_	_	_	_	TokenRange=26116:26117# newpar
+# sent_id = 328
+# text = Yeah!!!
+1	Yeah	yeah	INTJ	_	_	_	_	_	SpaceAfter=No|TokenRange=29869:29873
+2	!!!	!!!	PUNCT	_	_	_	_	_	TokenRange=29873:29876# sent_id = 331
+# text = alò.
+1	alò	alò	ADV	_	_	_	_	_	SpaceAfter=No|TokenRange=29943:29946
+2	.	.	PUNCT	_	_	_	_	_	SpaceAfter=No|TokenRange=29946:29947# sent_id = 332
+# text = ...
+1	...	...	PUNCT	_	_	_	_	_	TokenRange=29947:29950# sent_id = 344
+# text = »
+1	»	»	PUNCT	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=30609:30610# sent_id = 357
+# text = ...
+1	...	...	PUNCT	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=31154:31157# sent_id = 447
+# text = Domnik!
+1	Domnik	domnik	INTJ	_	_	_	_	_	SpaceAfter=No|TokenRange=38153:38159
+2	!	!	PUNCT	_	_	_	_	_	TokenRange=38159:38160# sent_id = 577
+# text = oswè /
+1	oswè	oswè	VERB	_	_	_	_	_	TokenRange=45772:45776
+2	/	/	PUNCT	_	_	_	_	_	TokenRange=45777:45778# sent_id = 589
+# text = b.
+1	b	b	INTJ	_	_	_	_	_	SpaceAfter=No|TokenRange=46478:46479
+2	.	.	PUNCT	_	_	_	_	_	TokenRange=46479:46480# sent_id = 596
+# text = poudavwa/
+1	poudavwa	poudavwa	ADV	_	_	_	_	_	SpaceAfter=No|TokenRange=47084:47092
+2	/	/	PUNCT	_	_	_	_	_	TokenRange=47092:47093# sent_id = 617
+# text = Awa !
+1	Awa	awa	INTJ	_	_	_	_	_	TokenRange=49272:49275
+2	!	!	PUNCT	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=49276:49277# sent_id = 632
+# text = Wabap !
+1	Wabap	Wabap	PROPN	_	_	_	_	_	TokenRange=50608:50613
+2	!	!	PUNCT	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=50614:50615# sent_id = 684
+# text = ».
+1	».	».	PUNCT	_	_	_	_	_	TokenRange=55658:55660# sent_id = 686
+# text = Pff !
+1	Pff	pff	INTJ	_	_	_	_	_	TokenRange=55772:55775
+2	!	!	PUNCT	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=55776:55777# newpar
+# sent_id = 696
+# text = Dégajé &
+1	Dégajé	dégajé	PROPN	_	_	_	_	_	TokenRange=56335:56341
+2	&	&	PUNCT	_	_	_	_	_	TokenRange=56342:56343# sent_id = 712
+# text = Etik &
+1	Etik	etik	INTJ	_	_	_	_	_	TokenRange=57486:57490
+2	&	&	PUNCT	_	_	_	_	_	TokenRange=57491:57492# sent_id = 745
+# text = Mèsi !
+1	Mèsi	mèsi	INTJ	_	_	_	_	_	TokenRange=59505:59509
+2	!	!	PUNCT	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=59510:59511# sent_id = 771
+# text = NOU KA
+1	NOU	nou	PRON	_	Number=Plur|Person=1|PronType=Prs	_	_	_	TokenRange=63536:63539
+2	KA	ka	AUX	_	_	_	_	_	TokenRange=63540:63542# sent_id = 773
+# text = NOU KA
+1	NOU	nou	PRON	_	Number=Plur|Person=1|PronType=Prs	_	_	_	TokenRange=63558:63561
+2	KA	ka	AUX	_	_	_	_	_	TokenRange=63562:63564# sent_id = 776
+# text = YO !
+1	YO	yo	PRON	_	Number=Plur|Person=3|PronType=Prs	_	_	_	TokenRange=63591:63593
+2	!	!	PUNCT	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=63594:63595# sent_id = 780
+# text = !!!
+1	!!!	!!!	PUNCT	_	_	_	_	_	TokenRange=63902:63905# sent_id = 782
+# text = !!!
+1	!!!	!!!	PUNCT	_	_	_	_	_	TokenRange=63925:63928# sent_id = 784
+# text = !!!
+1	!!!	!!!	PUNCT	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=63961:63964# sent_id = 863
+# text = LÉZOT
+1	LÉZO	Lézo	PROPN	_	_	_	_	_	SpaceAfter=No|TokenRange=69723:69727
+2	T	te	AUX	_	Tense=Past	_	_	_	TokenRange=69727:69728# sent_id = 866
+# text = KÈ A
+1	KÈ	kè	INTJ	_	_	_	_	_	TokenRange=69792:69794
+2	A	la	DET	_	_	_	_	_	TokenRange=69795:69796# sent_id = 925
+# text = »
+1	»	»	PUNCT	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=73708:73709# sent_id = 969
+# text = Mésyé !
+1	Mésyé	mésyé	PROPN	_	_	_	_	_	TokenRange=75856:75861
+2	!	!	PUNCT	_	_	_	_	_	TokenRange=75862:75863# sent_id = 1012
+# text = »
+1	»	»	PUNCT	_	_	_	_	_	TokenRange=78486:78487# sent_id = 1021
+# text = »
+1	»	»	PUNCT	_	_	_	_	_	TokenRange=78898:78899# sent_id = 1026
+# text = NOU KA
+1	NOU	nou	PRON	_	Number=Plur|Person=1|PronType=Prs	_	_	_	TokenRange=81074:81077
+2	KA	ka	AUX	_	_	_	_	_	TokenRange=81078:81080# sent_id = 1028
+# text = NOU KA
+1	NOU	nou	PRON	_	Number=Plur|Person=1|PronType=Prs	_	_	_	TokenRange=81096:81099
+2	KA	ka	AUX	_	_	_	_	_	TokenRange=81100:81102# sent_id = 1031
+# text = YO !
+1	YO	yo	PRON	_	Number=Plur|Person=3|PronType=Prs	_	_	_	TokenRange=81129:81131
+2	!	!	PUNCT	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=81132:81133# sent_id = 1035
+# text = !!!
+1	!!!	!!!	PUNCT	_	_	_	_	_	TokenRange=81440:81443# sent_id = 1037
+# text = !!!
+1	!!!	!!!	PUNCT	_	_	_	_	_	TokenRange=81463:81466# sent_id = 1039
+# text = !!!
+1	!!!	!!!	PUNCT	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=81499:81502# sent_id = 1118
+# text = LÉZOT
+1	LÉZO	Lézo	PROPN	_	_	_	_	_	SpaceAfter=No|TokenRange=87258:87262
+2	T	te	AUX	_	Tense=Past	_	_	_	TokenRange=87262:87263# sent_id = 1121
+# text = KÈ A
+1	KÈ	kè	INTJ	_	_	_	_	_	TokenRange=87327:87329
+2	A	la	DET	_	_	_	_	_	TokenRange=87330:87331# sent_id = 1143
+# text = ».
+1	».	».	PUNCT	_	_	_	_	_	SpacesAfter=\s\r\n|TokenRange=89364:89366# sent_id = 1150
+# text = Matiniken-la ?
+1	Matiniken-la	Matiniken-la	INTJ	_	_	_	_	_	TokenRange=89624:89636
+2	?	?	PUNCT	_	_	_	_	_	TokenRange=89637:89638# sent_id = 1151
+# text = Guiyané-la ?
+1	Guiyané-la	guiyané-la	INTJ	_	_	_	_	_	TokenRange=89639:89649
+2	?	?	PUNCT	_	_	_	_	_	TokenRange=89650:89651# sent_id = 1152
+# text = Rényonné-la ?
+1	Rényonné-la	rényonné-la	INTJ	_	_	_	_	_	TokenRange=89652:89663
+2	?	?	PUNCT	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=89664:89665# sent_id = 1193
+# text = !
+1	!	!	PUNCT	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=92005:92006# sent_id = 1211
+# text = Matinitjé-a ?
+1	Matinitjé-a	Matinitjé-a	PROPN	_	_	_	_	_	TokenRange=92933:92944
+2	?	?	PUNCT	_	_	_	_	_	TokenRange=92945:92946# sent_id = 1212
+# text = Guiyané-a ?
+1	Guiyané-a	guiyané-a	INTJ	_	_	_	_	_	TokenRange=92947:92956
+2	?	?	PUNCT	_	_	_	_	_	TokenRange=92957:92958# sent_id = 1213
+# text = Rénionné-a ?
+1	Rénionné-a	Rénionné-a	PROPN	_	_	_	_	_	TokenRange=92959:92969
+2	?	?	PUNCT	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=92970:92971# sent_id = 1246
+# text = ?
+1	?	?	PUNCT	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=94961:94962# sent_id = 1255
+# text = !
+1	!	!	PUNCT	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=95329:95330# sent_id = 1285
+# text = Psychology.
+1	Psychology	Psychology	PROPN	_	_	_	_	_	SpaceAfter=No|TokenRange=97174:97184
+2	.	.	PUNCT	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=97184:97185
+
+--------------------------------------------------
+
+#REMOVED SENTENCES FOR mqc LANGUAGE WITH ht-adolphe-2.17-251125 MODEL
+
+# sent_id = 42
+# text = Montpellier.
+1	Montpellier	montpellier	INTJ	_	_	_	_	_	SpaceAfter=No|TokenRange=4129:4140
+2	.	.	PUNCT	_	_	_	_	_	TokenRange=4140:4141# sent_id = 87
+# text = Poutji ?
+1	Poutji	poutji	VERB	_	_	_	_	_	TokenRange=10380:10386
+2	?	?	PUNCT	_	_	_	_	_	TokenRange=10387:10388# sent_id = 93
+# text = C.R.
+1	C.R	C.r	INTJ	_	_	_	_	_	SpaceAfter=No|TokenRange=11209:11212
+2	.	.	PUNCT	_	_	_	_	_	TokenRange=11212:11213# sent_id = 104
+# text = C.R.
+1	C.R	C.r	INTJ	_	_	_	_	_	SpaceAfter=No|TokenRange=12275:12278
+2	.	.	PUNCT	_	_	_	_	_	TokenRange=12278:12279# sent_id = 193
+# text = pasians?
+1	pasians	pasians	INTJ	_	_	_	_	_	SpaceAfter=No|TokenRange=19549:19556
+2	?	?	PUNCT	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=19556:19557# sent_id = 266
+# text = ».
+1	».	».	PUNCT	_	_	_	_	_	TokenRange=27204:27206# sent_id = 290
+# text = »
+1	»	»	PUNCT	_	_	_	_	_	TokenRange=29174:29175# sent_id = 299
+# text = E-é !
+1	E-é	e-é	INTJ	_	_	_	_	_	TokenRange=30088:30091
+2	!	!	PUNCT	_	_	_	_	_	TokenRange=30092:30093# sent_id = 333
+# text = Wi !
+1	Wi	wi	INTJ	_	_	_	_	_	TokenRange=31997:31999
+2	!	!	PUNCT	_	_	_	_	_	TokenRange=32000:32001# sent_id = 341
+# text = Twazè !
+1	Twazè	twazè	INTJ	_	_	_	_	_	TokenRange=32251:32256
+2	!	!	PUNCT	_	_	_	_	_	TokenRange=32257:32258# sent_id = 376
+# text = ...
+1	...	...	PUNCT	_	_	_	_	_	SpacesAfter=\r\n\s|TokenRange=34654:34657# sent_id = 410
+# text = ...
+1	...	...	PUNCT	_	_	_	_	_	TokenRange=37343:37346# sent_id = 511
+# text = .
+1	.	.	PUNCT	_	_	_	_	_	SpaceAfter=No|TokenRange=45353:45354# sent_id = 852
+# text = !!!
+1	!!!	!!!	PUNCT	_	_	_	_	_	SpaceAfter=No|TokenRange=72193:72196# sent_id = 853
+# text = !
+1	!	!	PUNCT	_	_	_	_	_	SpaceAfter=No|TokenRange=72196:72197# sent_id = 855
+# text = !!!!
+1	!!!!	!!!!	PUNCT	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=72209:72213# sent_id = 864
+# text = Poutji?
+1	Poutji	poutji	VERB	_	_	_	_	_	SpaceAfter=No|TokenRange=73000:73006
+2	?	?	PUNCT	_	_	_	_	_	TokenRange=73006:73007# sent_id = 939
+# text = Trinité.
+1	Trinité	Trinité	PROPN	_	_	_	_	_	SpaceAfter=No|TokenRange=78481:78488
+2	.	.	PUNCT	_	_	_	_	_	TokenRange=78488:78489# sent_id = 944
+# text = lizin-lan.
+1	lizin-lan	lizin-lan	ADV	_	_	_	_	_	SpaceAfter=No|TokenRange=78879:78888
+2	.	.	PUNCT	_	_	_	_	_	TokenRange=78888:78889# sent_id = 967
+# text = Maskarad.
+1	Maskarad	Maskarad	PROPN	_	_	_	_	_	SpaceAfter=No|TokenRange=80609:80617
+2	.	.	PUNCT	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=80617:80618# sent_id = 982
+# text = Masabiel.
+1	Masabiel	Masabiel	PROPN	_	_	_	_	_	SpaceAfter=No|TokenRange=81389:81397
+2	.	.	PUNCT	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=81397:81398
+
+--------------------------------------------------
+
+#REMOVED SENTENCES FOR gfr LANGUAGE WITH ht-adolphe-2.17-251125 MODEL
+
+# sent_id = 28
+# text = ...
+1	...	...	PUNCT	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=2796:2799# sent_id = 37
+# text = La MEGACOMBINA
+1	La	la	DET	_	_	_	_	_	TokenRange=3251:3253
+2	MEGACOMBINA	Megacombina	PROPN	_	_	_	_	_	SpaceAfter=No|TokenRange=3254:3265# sent_id = 42
+# text = !!!
+1	!!!	!!!	PUNCT	_	_	_	_	_	SpaceAfter=No|TokenRange=3785:3788# sent_id = 43
+# text = !!!
+1	!!!	!!!	PUNCT	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=3788:3791# sent_id = 90
+# text = !!.
+1	!!.	!!.	PUNCT	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=7930:7933# sent_id = 102
+# text = ».
+1	».	».	PUNCT	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=8577:8579# sent_id = 115
+# text = Pésonn.
+1	Pésonn	pésonn	PROPN	_	_	_	_	_	SpaceAfter=No|TokenRange=9409:9415
+2	.	.	PUNCT	_	_	_	_	_	TokenRange=9415:9416# sent_id = 206
+# text = anko.
+1	anko	anko	ADV	_	_	_	_	_	SpaceAfter=No|TokenRange=14883:14887
+2	.	.	PUNCT	_	_	_	_	_	TokenRange=14887:14888# sent_id = 222
+# text = ANWA.
+1	ANWA	anwa	INTJ	_	_	_	_	_	SpaceAfter=No|TokenRange=16190:16194
+2	.	.	PUNCT	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=16194:16195# sent_id = 240
+# text = »
+1	»	»	PUNCT	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=17683:17684# sent_id = 257
+# text = ...
+1	...	...	PUNCT	_	_	_	_	_	TokenRange=19052:19055# sent_id = 276
+# text = ..
+1	..	..	PUNCT	_	_	_	_	_	SpaceAfter=No|TokenRange=20452:20454# sent_id = 277
+# text = ...
+1	...	...	PUNCT	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=20454:20457# sent_id = 324
+# text = ».
+1	».	».	PUNCT	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=24943:24945# sent_id = 335
+# text = Ôroyo !
+1	Ôroyo	ôroyo	INTJ	_	_	_	_	_	TokenRange=25703:25708
+2	!	!	PUNCT	_	_	_	_	_	TokenRange=25709:25710# sent_id = 339
+# text = BAT
+1	BAT	bat	VERB	_	_	_	_	_	TokenRange=25948:25951# sent_id = 341
+# text = ANYEN A
+1	ANYEN	anyen	INTJ	_	_	_	_	_	TokenRange=25964:25969
+2	A	a	DET	_	_	_	_	_	TokenRange=25970:25971# sent_id = 348
+# text = Oroyo.
+1	Oroyo	Oroyo	PROPN	_	_	_	_	_	SpaceAfter=No|TokenRange=26384:26389
+2	.	.	PUNCT	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=26389:26390# sent_id = 549
+# text = J.-K..
+1	J.-K	J.-k	PROPN	_	_	_	_	_	SpaceAfter=No|TokenRange=47014:47018
+2	..	..	PUNCT	_	_	_	_	_	TokenRange=47018:47020
+
+--------------------------------------------------
+
+#REMOVED SENTENCES FOR hcr LANGUAGE WITH ht-adolphe-2.17-251125 MODEL
+
+# sent_id = 18
+# text = »
+1	»	»	PUNCT	_	_	_	_	_	TokenRange=1743:1744# sent_id = 23
+# text = »
+1	»	»	PUNCT	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=1946:1947# sent_id = 233
+# text = Elsie Suréna
+1	Elsie	Elsie	PROPN	_	_	_	_	_	TokenRange=17826:17831
+2	Suréna	Suréna	PROPN	_	_	_	_	_	SpacesAfter=\r\n\r\n|TokenRange=17832:17838# sent_id = 341
+# text = Patrick Sylvain
+1	Patrick	Patrick	PROPN	_	_	_	_	_	TokenRange=34000:34007
+2	Sylvain	Sylvain	PROPN	_	_	_	_	_	SpacesAfter=\r\n\r\n|TokenRange=34008:34015# sent_id = 351
+# text = Paul Germain
+1	Paul	Paul	PROPN	_	_	_	_	_	TokenRange=35880:35884
+2	Germain	Germain	PROPN	_	_	_	_	_	SpacesAfter=\r\n\r\n|TokenRange=35885:35892# sent_id = 366
+# text = Happy!
+1	Happy	happy	INTJ	_	_	_	_	_	SpaceAfter=No|TokenRange=37097:37102
+2	!	!	PUNCT	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=37102:37103# sent_id = 372
+# text = Oh!
+1	Oh	oh	INTJ	_	_	_	_	_	SpaceAfter=No|TokenRange=37501:37503
+2	!	!	PUNCT	_	_	_	_	_	TokenRange=37503:37504# sent_id = 441
+# text = ...
+1	...	...	PUNCT	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=43508:43511# sent_id = 516
+# text = FCADV
+1	FCADV	fcadv	NOUN	_	_	_	_	_	TokenRange=50891:50896# sent_id = 521
+# text = FCADV
+1	FCADV	fcadv	NOUN	_	_	_	_	_	TokenRange=51371:51376# sent_id = 686
+# text = Amèn.
+1	Amèn	amèn	INTJ	_	_	_	_	_	SpaceAfter=No|TokenRange=66273:66277
+2	.	.	PUNCT	_	_	_	_	_	SpacesAfter=\r\n\s|TokenRange=66277:66278# sent_id = 698
+# text = 9.4?
+1	9.4	9.4	NUM	_	_	_	_	_	SpaceAfter=No|TokenRange=67341:67344
+2	?	?	PUNCT	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=67344:67345# sent_id = 742
+# text = 12/
+1	12/	12/	NUM	_	_	_	_	_	SpaceAfter=No|TokenRange=72499:72502# sent_id = 750
+# text = 2.
+1	2.	2.	PUNCT	_	_	_	_	_	TokenRange=73054:73056# sent_id = 784
+# text = PS.
+1	PS	ps	INTJ	_	_	_	_	_	SpaceAfter=No|TokenRange=76868:76870
+2	.	.	PUNCT	_	_	_	_	_	TokenRange=76870:76871# sent_id = 935
+# text = 21V
+1	21V	21v	NUM	_	_	_	_	_	TokenRange=95568:95571# sent_id = 1125
+# text = EFTA
+1	EFTA	Efta	PROPN	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=115259:115263# sent_id = 1139
+# text = ~nesare.
+1	~nesare	~nesare	VERB	_	_	_	_	_	SpaceAfter=No|TokenRange=116882:116889
+2	.	.	PUNCT	_	_	_	_	_	TokenRange=116889:116890# sent_id = 1143
+# text = »
+1	»	»	PUNCT	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=117514:117515# sent_id = 1185
+# text = WI !
+1	WI	wi	INTJ	_	_	_	_	_	TokenRange=123802:123804
+2	!	!	PUNCT	_	_	_	_	_	TokenRange=123805:123806# sent_id = 1194
+# text = ...
+1	...	...	PUNCT	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=124777:124780# sent_id = 1225
+# text = Wi!
+1	Wi	wi	INTJ	_	_	_	_	_	SpaceAfter=No|TokenRange=128959:128961
+2	!	!	PUNCT	_	_	_	_	_	TokenRange=128961:128962# sent_id = 1229
+# text = Wi!
+1	Wi	wi	INTJ	_	_	_	_	_	SpaceAfter=No|TokenRange=129160:129162
+2	!	!	PUNCT	_	_	_	_	_	TokenRange=129162:129163# sent_id = 1233
+# text = Wi!
+1	Wi	wi	INTJ	_	_	_	_	_	SpaceAfter=No|TokenRange=129492:129494
+2	!	!	PUNCT	_	_	_	_	_	TokenRange=129494:129495# sent_id = 1268
+# text = gwo.
+1	gwo	gwo	ADJ	_	_	_	_	_	SpaceAfter=No|TokenRange=133817:133820
+2	.	.	PUNCT	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=133820:133821# sent_id = 1273
+# text = 1.
+1	1	1	INTJ	_	_	_	_	_	SpaceAfter=No|TokenRange=134439:134440
+2	.	.	PUNCT	_	_	_	_	_	TokenRange=134440:134441# sent_id = 1275
+# text = â¡
+1	â	â	INTJ	_	_	_	_	_	SpaceAfter=No|TokenRange=134720:134721
+2	¡	¡	PUNCT	_	_	_	_	_	TokenRange=134721:134722# sent_id = 1283
+# text = 2.
+1	2.	2.	PUNCT	_	_	_	_	_	TokenRange=135793:135795# sent_id = 1286
+# text = â¡
+1	â	â	INTJ	_	_	_	_	_	SpaceAfter=No|TokenRange=136117:136118
+2	¡	¡	PUNCT	_	_	_	_	_	TokenRange=136118:136119# sent_id = 1313
+# text = .
+1	.	.	PUNCT	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=138848:138849# sent_id = 1318
+# text = 14.
+1	14	14	NUM	_	_	_	_	_	SpaceAfter=No|TokenRange=139177:139179
+2	.	.	PUNCT	_	_	_	_	_	TokenRange=139179:139180# sent_id = 1325
+# text = 85.
+1	85	85	INTJ	_	_	_	_	_	SpaceAfter=No|TokenRange=139868:139870
+2	.	.	PUNCT	_	_	_	_	_	TokenRange=139870:139871# sent_id = 1334
+# text = Mc 2:3-12.
+1	Mc	Mc	PROPN	_	_	_	_	_	TokenRange=140405:140407
+2	2:3-12.	2:3-12.	NUM	_	_	_	_	_	TokenRange=140408:140415# sent_id = 1346
+# text = Mc 2:14-22.
+1	Mc	Mc	PROPN	_	_	_	_	_	TokenRange=141131:141133
+2	2:14-22.	2:14-22.	NUM	_	_	_	_	_	TokenRange=141134:141142# sent_id = 1357
+# text = Luc 18:12.
+1	Luc	Luc	PROPN	_	_	_	_	_	TokenRange=141811:141814
+2	18:12.	18:12.	NUM	_	_	_	_	_	TokenRange=141815:141821# sent_id = 1390
+# text = Mat 12:22.
+1	Mat	Mat	PROPN	_	_	_	_	_	TokenRange=143877:143880
+2	12:22.	12:22.	NUM	_	_	_	_	_	TokenRange=143881:143887# sent_id = 1394
+# text = Mc 2:12.
+1	Mc	Mc	PROPN	_	_	_	_	_	TokenRange=144053:144055
+2	2:12.	2:12.	NUM	_	_	_	_	_	TokenRange=144056:144061# sent_id = 1403
+# text = Luc 10:2.
+1	Luc	Luc	PROPN	_	_	_	_	_	TokenRange=144526:144529
+2	10:2.	10:2.	NUM	_	_	_	_	_	TokenRange=144530:144535# sent_id = 1438
+# text = UPSO.
+1	UPSO	upso	PROPN	_	_	_	_	_	SpaceAfter=No|TokenRange=149262:149266
+2	.	.	PUNCT	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=149266:149267# sent_id = 1471
+# text = elatriye.
+1	elatriye	elatriye	NOUN	_	_	_	_	_	SpaceAfter=No|TokenRange=153366:153374
+2	.	.	PUNCT	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=153374:153375# sent_id = 1491
+# text = .
+1	.	.	PUNCT	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=155579:155580
+
+--------------------------------------------------
+
+#REMOVED SENTENCES FOR gdl LANGUAGE WITH fr-gsd-2.17-251125 MODEL
+
+# sent_id = 38
+# text = ..
+1	..	..	PUNCT	_	_	_	_	_	TokenRange=3930:3932# sent_id = 106
+# text = .
+1	.	.	PUNCT	_	_	_	_	_	TokenRange=10926:10927# sent_id = 125
+# text = Poukisa?
+1	Poukisa	poukisa	ADV	_	_	_	_	_	SpaceAfter=No|TokenRange=12267:12274
+2	?	?	PUNCT	_	_	_	_	_	TokenRange=12274:12275# sent_id = 184
+# text = »
+1	»	»	PUNCT	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=16291:16292# sent_id = 260
+# text = Yeah!
+1	Yeah	yeah	INTJ	_	_	_	_	_	SpaceAfter=No|TokenRange=20683:20687
+2	!	!	PUNCT	_	_	_	_	_	TokenRange=20687:20688# sent_id = 264
+# text = Yeah!
+1	Yeah	yeah	INTJ	_	_	_	_	_	SpaceAfter=No|TokenRange=21149:21153
+2	!	!	PUNCT	_	_	_	_	_	TokenRange=21153:21154# sent_id = 314
+# text = Yeah!
+1	Yeah	yeah	INTJ	_	_	_	_	_	SpaceAfter=No|TokenRange=26112:26116
+2	!	!	PUNCT	_	_	_	_	_	TokenRange=26116:26117# newpar
+# sent_id = 328
+# text = Yeah!!!
+1	Yeah	yeah	INTJ	_	_	_	_	_	SpaceAfter=No|TokenRange=29869:29873
+2	!!!	!!!	PUNCT	_	_	_	_	_	TokenRange=29873:29876# sent_id = 331
+# text = alò.
+1	alò	alò	ADV	_	_	_	_	_	SpaceAfter=No|TokenRange=29943:29946
+2	.	.	PUNCT	_	_	_	_	_	SpaceAfter=No|TokenRange=29946:29947# sent_id = 332
+# text = ...
+1	...	...	PUNCT	_	_	_	_	_	TokenRange=29947:29950# sent_id = 344
+# text = »
+1	»	»	PUNCT	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=30609:30610# sent_id = 357
+# text = ...
+1	...	...	PUNCT	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=31154:31157# sent_id = 447
+# text = Domnik!
+1	Domnik	domnik	INTJ	_	_	_	_	_	SpaceAfter=No|TokenRange=38153:38159
+2	!	!	PUNCT	_	_	_	_	_	TokenRange=38159:38160# sent_id = 577
+# text = oswè /
+1	oswè	oswè	VERB	_	_	_	_	_	TokenRange=45772:45776
+2	/	/	PUNCT	_	_	_	_	_	TokenRange=45777:45778# sent_id = 589
+# text = b.
+1	b	b	INTJ	_	_	_	_	_	SpaceAfter=No|TokenRange=46478:46479
+2	.	.	PUNCT	_	_	_	_	_	TokenRange=46479:46480# sent_id = 596
+# text = poudavwa/
+1	poudavwa	poudavwa	ADV	_	_	_	_	_	SpaceAfter=No|TokenRange=47084:47092
+2	/	/	PUNCT	_	_	_	_	_	TokenRange=47092:47093# sent_id = 617
+# text = Awa !
+1	Awa	awa	INTJ	_	_	_	_	_	TokenRange=49272:49275
+2	!	!	PUNCT	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=49276:49277# sent_id = 632
+# text = Wabap !
+1	Wabap	Wabap	PROPN	_	_	_	_	_	TokenRange=50608:50613
+2	!	!	PUNCT	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=50614:50615# sent_id = 684
+# text = ».
+1	».	».	PUNCT	_	_	_	_	_	TokenRange=55658:55660# sent_id = 686
+# text = Pff !
+1	Pff	pff	INTJ	_	_	_	_	_	TokenRange=55772:55775
+2	!	!	PUNCT	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=55776:55777# newpar
+# sent_id = 696
+# text = Dégajé &
+1	Dégajé	dégajé	PROPN	_	_	_	_	_	TokenRange=56335:56341
+2	&	&	PUNCT	_	_	_	_	_	TokenRange=56342:56343# sent_id = 712
+# text = Etik &
+1	Etik	etik	INTJ	_	_	_	_	_	TokenRange=57486:57490
+2	&	&	PUNCT	_	_	_	_	_	TokenRange=57491:57492# sent_id = 745
+# text = Mèsi !
+1	Mèsi	mèsi	INTJ	_	_	_	_	_	TokenRange=59505:59509
+2	!	!	PUNCT	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=59510:59511# sent_id = 771
+# text = NOU KA
+1	NOU	nou	PRON	_	Number=Plur|Person=1|PronType=Prs	_	_	_	TokenRange=63536:63539
+2	KA	ka	AUX	_	_	_	_	_	TokenRange=63540:63542# sent_id = 773
+# text = NOU KA
+1	NOU	nou	PRON	_	Number=Plur|Person=1|PronType=Prs	_	_	_	TokenRange=63558:63561
+2	KA	ka	AUX	_	_	_	_	_	TokenRange=63562:63564# sent_id = 776
+# text = YO !
+1	YO	yo	PRON	_	Number=Plur|Person=3|PronType=Prs	_	_	_	TokenRange=63591:63593
+2	!	!	PUNCT	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=63594:63595# sent_id = 780
+# text = !!!
+1	!!!	!!!	PUNCT	_	_	_	_	_	TokenRange=63902:63905# sent_id = 782
+# text = !!!
+1	!!!	!!!	PUNCT	_	_	_	_	_	TokenRange=63925:63928# sent_id = 784
+# text = !!!
+1	!!!	!!!	PUNCT	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=63961:63964# sent_id = 863
+# text = LÉZOT
+1	LÉZO	Lézo	PROPN	_	_	_	_	_	SpaceAfter=No|TokenRange=69723:69727
+2	T	te	AUX	_	Tense=Past	_	_	_	TokenRange=69727:69728# sent_id = 866
+# text = KÈ A
+1	KÈ	kè	INTJ	_	_	_	_	_	TokenRange=69792:69794
+2	A	la	DET	_	_	_	_	_	TokenRange=69795:69796# sent_id = 925
+# text = »
+1	»	»	PUNCT	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=73708:73709# sent_id = 969
+# text = Mésyé !
+1	Mésyé	mésyé	PROPN	_	_	_	_	_	TokenRange=75856:75861
+2	!	!	PUNCT	_	_	_	_	_	TokenRange=75862:75863# sent_id = 1012
+# text = »
+1	»	»	PUNCT	_	_	_	_	_	TokenRange=78486:78487# sent_id = 1021
+# text = »
+1	»	»	PUNCT	_	_	_	_	_	TokenRange=78898:78899# sent_id = 1026
+# text = NOU KA
+1	NOU	nou	PRON	_	Number=Plur|Person=1|PronType=Prs	_	_	_	TokenRange=81074:81077
+2	KA	ka	AUX	_	_	_	_	_	TokenRange=81078:81080# sent_id = 1028
+# text = NOU KA
+1	NOU	nou	PRON	_	Number=Plur|Person=1|PronType=Prs	_	_	_	TokenRange=81096:81099
+2	KA	ka	AUX	_	_	_	_	_	TokenRange=81100:81102# sent_id = 1031
+# text = YO !
+1	YO	yo	PRON	_	Number=Plur|Person=3|PronType=Prs	_	_	_	TokenRange=81129:81131
+2	!	!	PUNCT	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=81132:81133# sent_id = 1035
+# text = !!!
+1	!!!	!!!	PUNCT	_	_	_	_	_	TokenRange=81440:81443# sent_id = 1037
+# text = !!!
+1	!!!	!!!	PUNCT	_	_	_	_	_	TokenRange=81463:81466# sent_id = 1039
+# text = !!!
+1	!!!	!!!	PUNCT	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=81499:81502# sent_id = 1118
+# text = LÉZOT
+1	LÉZO	Lézo	PROPN	_	_	_	_	_	SpaceAfter=No|TokenRange=87258:87262
+2	T	te	AUX	_	Tense=Past	_	_	_	TokenRange=87262:87263# sent_id = 1121
+# text = KÈ A
+1	KÈ	kè	INTJ	_	_	_	_	_	TokenRange=87327:87329
+2	A	la	DET	_	_	_	_	_	TokenRange=87330:87331# sent_id = 1143
+# text = ».
+1	».	».	PUNCT	_	_	_	_	_	SpacesAfter=\s\r\n|TokenRange=89364:89366# sent_id = 1150
+# text = Matiniken-la ?
+1	Matiniken-la	Matiniken-la	INTJ	_	_	_	_	_	TokenRange=89624:89636
+2	?	?	PUNCT	_	_	_	_	_	TokenRange=89637:89638# sent_id = 1151
+# text = Guiyané-la ?
+1	Guiyané-la	guiyané-la	INTJ	_	_	_	_	_	TokenRange=89639:89649
+2	?	?	PUNCT	_	_	_	_	_	TokenRange=89650:89651# sent_id = 1152
+# text = Rényonné-la ?
+1	Rényonné-la	rényonné-la	INTJ	_	_	_	_	_	TokenRange=89652:89663
+2	?	?	PUNCT	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=89664:89665# sent_id = 1193
+# text = !
+1	!	!	PUNCT	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=92005:92006# sent_id = 1211
+# text = Matinitjé-a ?
+1	Matinitjé-a	Matinitjé-a	PROPN	_	_	_	_	_	TokenRange=92933:92944
+2	?	?	PUNCT	_	_	_	_	_	TokenRange=92945:92946# sent_id = 1212
+# text = Guiyané-a ?
+1	Guiyané-a	guiyané-a	INTJ	_	_	_	_	_	TokenRange=92947:92956
+2	?	?	PUNCT	_	_	_	_	_	TokenRange=92957:92958# sent_id = 1213
+# text = Rénionné-a ?
+1	Rénionné-a	Rénionné-a	PROPN	_	_	_	_	_	TokenRange=92959:92969
+2	?	?	PUNCT	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=92970:92971# sent_id = 1246
+# text = ?
+1	?	?	PUNCT	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=94961:94962# sent_id = 1255
+# text = !
+1	!	!	PUNCT	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=95329:95330# sent_id = 1285
+# text = Psychology.
+1	Psychology	Psychology	PROPN	_	_	_	_	_	SpaceAfter=No|TokenRange=97174:97184
+2	.	.	PUNCT	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=97184:97185
+
+--------------------------------------------------
+
+#REMOVED SENTENCES FOR mqc LANGUAGE WITH fr-gsd-2.17-251125 MODEL
+
+# sent_id = 42
+# text = Montpellier.
+1	Montpellier	montpellier	INTJ	_	_	_	_	_	SpaceAfter=No|TokenRange=4129:4140
+2	.	.	PUNCT	_	_	_	_	_	TokenRange=4140:4141# sent_id = 87
+# text = Poutji ?
+1	Poutji	poutji	VERB	_	_	_	_	_	TokenRange=10380:10386
+2	?	?	PUNCT	_	_	_	_	_	TokenRange=10387:10388# sent_id = 93
+# text = C.R.
+1	C.R	C.r	INTJ	_	_	_	_	_	SpaceAfter=No|TokenRange=11209:11212
+2	.	.	PUNCT	_	_	_	_	_	TokenRange=11212:11213# sent_id = 104
+# text = C.R.
+1	C.R	C.r	INTJ	_	_	_	_	_	SpaceAfter=No|TokenRange=12275:12278
+2	.	.	PUNCT	_	_	_	_	_	TokenRange=12278:12279# sent_id = 193
+# text = pasians?
+1	pasians	pasians	INTJ	_	_	_	_	_	SpaceAfter=No|TokenRange=19549:19556
+2	?	?	PUNCT	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=19556:19557# sent_id = 266
+# text = ».
+1	».	».	PUNCT	_	_	_	_	_	TokenRange=27204:27206# sent_id = 290
+# text = »
+1	»	»	PUNCT	_	_	_	_	_	TokenRange=29174:29175# sent_id = 299
+# text = E-é !
+1	E-é	e-é	INTJ	_	_	_	_	_	TokenRange=30088:30091
+2	!	!	PUNCT	_	_	_	_	_	TokenRange=30092:30093# sent_id = 333
+# text = Wi !
+1	Wi	wi	INTJ	_	_	_	_	_	TokenRange=31997:31999
+2	!	!	PUNCT	_	_	_	_	_	TokenRange=32000:32001# sent_id = 341
+# text = Twazè !
+1	Twazè	twazè	INTJ	_	_	_	_	_	TokenRange=32251:32256
+2	!	!	PUNCT	_	_	_	_	_	TokenRange=32257:32258# sent_id = 376
+# text = ...
+1	...	...	PUNCT	_	_	_	_	_	SpacesAfter=\r\n\s|TokenRange=34654:34657# sent_id = 410
+# text = ...
+1	...	...	PUNCT	_	_	_	_	_	TokenRange=37343:37346# sent_id = 511
+# text = .
+1	.	.	PUNCT	_	_	_	_	_	SpaceAfter=No|TokenRange=45353:45354# sent_id = 852
+# text = !!!
+1	!!!	!!!	PUNCT	_	_	_	_	_	SpaceAfter=No|TokenRange=72193:72196# sent_id = 853
+# text = !
+1	!	!	PUNCT	_	_	_	_	_	SpaceAfter=No|TokenRange=72196:72197# sent_id = 855
+# text = !!!!
+1	!!!!	!!!!	PUNCT	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=72209:72213# sent_id = 864
+# text = Poutji?
+1	Poutji	poutji	VERB	_	_	_	_	_	SpaceAfter=No|TokenRange=73000:73006
+2	?	?	PUNCT	_	_	_	_	_	TokenRange=73006:73007# sent_id = 939
+# text = Trinité.
+1	Trinité	Trinité	PROPN	_	_	_	_	_	SpaceAfter=No|TokenRange=78481:78488
+2	.	.	PUNCT	_	_	_	_	_	TokenRange=78488:78489# sent_id = 944
+# text = lizin-lan.
+1	lizin-lan	lizin-lan	ADV	_	_	_	_	_	SpaceAfter=No|TokenRange=78879:78888
+2	.	.	PUNCT	_	_	_	_	_	TokenRange=78888:78889# sent_id = 967
+# text = Maskarad.
+1	Maskarad	Maskarad	PROPN	_	_	_	_	_	SpaceAfter=No|TokenRange=80609:80617
+2	.	.	PUNCT	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=80617:80618# sent_id = 982
+# text = Masabiel.
+1	Masabiel	Masabiel	PROPN	_	_	_	_	_	SpaceAfter=No|TokenRange=81389:81397
+2	.	.	PUNCT	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=81397:81398
+
+--------------------------------------------------
+
+#REMOVED SENTENCES FOR gfr LANGUAGE WITH fr-gsd-2.17-251125 MODEL
+
+# sent_id = 28
+# text = ...
+1	...	...	PUNCT	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=2796:2799# sent_id = 37
+# text = La MEGACOMBINA
+1	La	la	DET	_	_	_	_	_	TokenRange=3251:3253
+2	MEGACOMBINA	Megacombina	PROPN	_	_	_	_	_	SpaceAfter=No|TokenRange=3254:3265# sent_id = 42
+# text = !!!
+1	!!!	!!!	PUNCT	_	_	_	_	_	SpaceAfter=No|TokenRange=3785:3788# sent_id = 43
+# text = !!!
+1	!!!	!!!	PUNCT	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=3788:3791# sent_id = 90
+# text = !!.
+1	!!.	!!.	PUNCT	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=7930:7933# sent_id = 102
+# text = ».
+1	».	».	PUNCT	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=8577:8579# sent_id = 115
+# text = Pésonn.
+1	Pésonn	pésonn	PROPN	_	_	_	_	_	SpaceAfter=No|TokenRange=9409:9415
+2	.	.	PUNCT	_	_	_	_	_	TokenRange=9415:9416# sent_id = 206
+# text = anko.
+1	anko	anko	ADV	_	_	_	_	_	SpaceAfter=No|TokenRange=14883:14887
+2	.	.	PUNCT	_	_	_	_	_	TokenRange=14887:14888# sent_id = 222
+# text = ANWA.
+1	ANWA	anwa	INTJ	_	_	_	_	_	SpaceAfter=No|TokenRange=16190:16194
+2	.	.	PUNCT	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=16194:16195# sent_id = 240
+# text = »
+1	»	»	PUNCT	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=17683:17684# sent_id = 257
+# text = ...
+1	...	...	PUNCT	_	_	_	_	_	TokenRange=19052:19055# sent_id = 276
+# text = ..
+1	..	..	PUNCT	_	_	_	_	_	SpaceAfter=No|TokenRange=20452:20454# sent_id = 277
+# text = ...
+1	...	...	PUNCT	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=20454:20457# sent_id = 324
+# text = ».
+1	».	».	PUNCT	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=24943:24945# sent_id = 335
+# text = Ôroyo !
+1	Ôroyo	ôroyo	INTJ	_	_	_	_	_	TokenRange=25703:25708
+2	!	!	PUNCT	_	_	_	_	_	TokenRange=25709:25710# sent_id = 339
+# text = BAT
+1	BAT	bat	VERB	_	_	_	_	_	TokenRange=25948:25951# sent_id = 341
+# text = ANYEN A
+1	ANYEN	anyen	INTJ	_	_	_	_	_	TokenRange=25964:25969
+2	A	a	DET	_	_	_	_	_	TokenRange=25970:25971# sent_id = 348
+# text = Oroyo.
+1	Oroyo	Oroyo	PROPN	_	_	_	_	_	SpaceAfter=No|TokenRange=26384:26389
+2	.	.	PUNCT	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=26389:26390# sent_id = 549
+# text = J.-K..
+1	J.-K	J.-k	PROPN	_	_	_	_	_	SpaceAfter=No|TokenRange=47014:47018
+2	..	..	PUNCT	_	_	_	_	_	TokenRange=47018:47020
+
+--------------------------------------------------
+
+#REMOVED SENTENCES FOR hcr LANGUAGE WITH fr-gsd-2.17-251125 MODEL
+
+# sent_id = 18
+# text = »
+1	»	»	PUNCT	_	_	_	_	_	TokenRange=1743:1744# sent_id = 23
+# text = »
+1	»	»	PUNCT	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=1946:1947# sent_id = 233
+# text = Elsie Suréna
+1	Elsie	Elsie	PROPN	_	_	_	_	_	TokenRange=17826:17831
+2	Suréna	Suréna	PROPN	_	_	_	_	_	SpacesAfter=\r\n\r\n|TokenRange=17832:17838# sent_id = 341
+# text = Patrick Sylvain
+1	Patrick	Patrick	PROPN	_	_	_	_	_	TokenRange=34000:34007
+2	Sylvain	Sylvain	PROPN	_	_	_	_	_	SpacesAfter=\r\n\r\n|TokenRange=34008:34015# sent_id = 351
+# text = Paul Germain
+1	Paul	Paul	PROPN	_	_	_	_	_	TokenRange=35880:35884
+2	Germain	Germain	PROPN	_	_	_	_	_	SpacesAfter=\r\n\r\n|TokenRange=35885:35892# sent_id = 366
+# text = Happy!
+1	Happy	happy	INTJ	_	_	_	_	_	SpaceAfter=No|TokenRange=37097:37102
+2	!	!	PUNCT	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=37102:37103# sent_id = 372
+# text = Oh!
+1	Oh	oh	INTJ	_	_	_	_	_	SpaceAfter=No|TokenRange=37501:37503
+2	!	!	PUNCT	_	_	_	_	_	TokenRange=37503:37504# sent_id = 441
+# text = ...
+1	...	...	PUNCT	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=43508:43511# sent_id = 516
+# text = FCADV
+1	FCADV	fcadv	NOUN	_	_	_	_	_	TokenRange=50891:50896# sent_id = 521
+# text = FCADV
+1	FCADV	fcadv	NOUN	_	_	_	_	_	TokenRange=51371:51376# sent_id = 686
+# text = Amèn.
+1	Amèn	amèn	INTJ	_	_	_	_	_	SpaceAfter=No|TokenRange=66273:66277
+2	.	.	PUNCT	_	_	_	_	_	SpacesAfter=\r\n\s|TokenRange=66277:66278# sent_id = 698
+# text = 9.4?
+1	9.4	9.4	NUM	_	_	_	_	_	SpaceAfter=No|TokenRange=67341:67344
+2	?	?	PUNCT	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=67344:67345# sent_id = 742
+# text = 12/
+1	12/	12/	NUM	_	_	_	_	_	SpaceAfter=No|TokenRange=72499:72502# sent_id = 750
+# text = 2.
+1	2.	2.	PUNCT	_	_	_	_	_	TokenRange=73054:73056# sent_id = 784
+# text = PS.
+1	PS	ps	INTJ	_	_	_	_	_	SpaceAfter=No|TokenRange=76868:76870
+2	.	.	PUNCT	_	_	_	_	_	TokenRange=76870:76871# sent_id = 935
+# text = 21V
+1	21V	21v	NUM	_	_	_	_	_	TokenRange=95568:95571# sent_id = 1125
+# text = EFTA
+1	EFTA	Efta	PROPN	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=115259:115263# sent_id = 1139
+# text = ~nesare.
+1	~nesare	~nesare	VERB	_	_	_	_	_	SpaceAfter=No|TokenRange=116882:116889
+2	.	.	PUNCT	_	_	_	_	_	TokenRange=116889:116890# sent_id = 1143
+# text = »
+1	»	»	PUNCT	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=117514:117515# sent_id = 1185
+# text = WI !
+1	WI	wi	INTJ	_	_	_	_	_	TokenRange=123802:123804
+2	!	!	PUNCT	_	_	_	_	_	TokenRange=123805:123806# sent_id = 1194
+# text = ...
+1	...	...	PUNCT	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=124777:124780# sent_id = 1225
+# text = Wi!
+1	Wi	wi	INTJ	_	_	_	_	_	SpaceAfter=No|TokenRange=128959:128961
+2	!	!	PUNCT	_	_	_	_	_	TokenRange=128961:128962# sent_id = 1229
+# text = Wi!
+1	Wi	wi	INTJ	_	_	_	_	_	SpaceAfter=No|TokenRange=129160:129162
+2	!	!	PUNCT	_	_	_	_	_	TokenRange=129162:129163# sent_id = 1233
+# text = Wi!
+1	Wi	wi	INTJ	_	_	_	_	_	SpaceAfter=No|TokenRange=129492:129494
+2	!	!	PUNCT	_	_	_	_	_	TokenRange=129494:129495# sent_id = 1268
+# text = gwo.
+1	gwo	gwo	ADJ	_	_	_	_	_	SpaceAfter=No|TokenRange=133817:133820
+2	.	.	PUNCT	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=133820:133821# sent_id = 1273
+# text = 1.
+1	1	1	INTJ	_	_	_	_	_	SpaceAfter=No|TokenRange=134439:134440
+2	.	.	PUNCT	_	_	_	_	_	TokenRange=134440:134441# sent_id = 1275
+# text = â¡
+1	â	â	INTJ	_	_	_	_	_	SpaceAfter=No|TokenRange=134720:134721
+2	¡	¡	PUNCT	_	_	_	_	_	TokenRange=134721:134722# sent_id = 1283
+# text = 2.
+1	2.	2.	PUNCT	_	_	_	_	_	TokenRange=135793:135795# sent_id = 1286
+# text = â¡
+1	â	â	INTJ	_	_	_	_	_	SpaceAfter=No|TokenRange=136117:136118
+2	¡	¡	PUNCT	_	_	_	_	_	TokenRange=136118:136119# sent_id = 1313
+# text = .
+1	.	.	PUNCT	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=138848:138849# sent_id = 1318
+# text = 14.
+1	14	14	NUM	_	_	_	_	_	SpaceAfter=No|TokenRange=139177:139179
+2	.	.	PUNCT	_	_	_	_	_	TokenRange=139179:139180# sent_id = 1325
+# text = 85.
+1	85	85	INTJ	_	_	_	_	_	SpaceAfter=No|TokenRange=139868:139870
+2	.	.	PUNCT	_	_	_	_	_	TokenRange=139870:139871# sent_id = 1334
+# text = Mc 2:3-12.
+1	Mc	Mc	PROPN	_	_	_	_	_	TokenRange=140405:140407
+2	2:3-12.	2:3-12.	NUM	_	_	_	_	_	TokenRange=140408:140415# sent_id = 1346
+# text = Mc 2:14-22.
+1	Mc	Mc	PROPN	_	_	_	_	_	TokenRange=141131:141133
+2	2:14-22.	2:14-22.	NUM	_	_	_	_	_	TokenRange=141134:141142# sent_id = 1357
+# text = Luc 18:12.
+1	Luc	Luc	PROPN	_	_	_	_	_	TokenRange=141811:141814
+2	18:12.	18:12.	NUM	_	_	_	_	_	TokenRange=141815:141821# sent_id = 1390
+# text = Mat 12:22.
+1	Mat	Mat	PROPN	_	_	_	_	_	TokenRange=143877:143880
+2	12:22.	12:22.	NUM	_	_	_	_	_	TokenRange=143881:143887# sent_id = 1394
+# text = Mc 2:12.
+1	Mc	Mc	PROPN	_	_	_	_	_	TokenRange=144053:144055
+2	2:12.	2:12.	NUM	_	_	_	_	_	TokenRange=144056:144061# sent_id = 1403
+# text = Luc 10:2.
+1	Luc	Luc	PROPN	_	_	_	_	_	TokenRange=144526:144529
+2	10:2.	10:2.	NUM	_	_	_	_	_	TokenRange=144530:144535# sent_id = 1438
+# text = UPSO.
+1	UPSO	upso	PROPN	_	_	_	_	_	SpaceAfter=No|TokenRange=149262:149266
+2	.	.	PUNCT	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=149266:149267# sent_id = 1471
+# text = elatriye.
+1	elatriye	elatriye	NOUN	_	_	_	_	_	SpaceAfter=No|TokenRange=153366:153374
+2	.	.	PUNCT	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=153374:153375# sent_id = 1491
+# text = .
+1	.	.	PUNCT	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=155579:155580
+
+--------------------------------------------------
+
