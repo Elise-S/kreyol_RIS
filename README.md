@@ -10,5 +10,5 @@ In this repository you will find:
 - The methodological pipeline, composed of fours subfolers corresponding at each steps:
     1. Data exploration and reshaping to extract text data
     2. The addition of the WALS annotations from the forms
-    3. The tokenisation/sentensization/POS-taggins, the comparison between ht-adolphe.udpipe2.17 and fr-gsd.udpipe2.17 models' POS-tag predictions, as well as diverse explorations
+    3. The tokenisation/sentensization/POS-taggins, the comparison between ht-adolphe.udpipe2.17 and fr-gsd.udpipe2.17 models' POS-tag predictions, and explorations
     4. The Regex Search Index (instructions to reproduce the experiment is to be found in _RIS_application_main.py_)
